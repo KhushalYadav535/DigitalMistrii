@@ -139,18 +139,19 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div className="text-gray-300 text-sm">
-            <p>&copy; 2024 Digital Mistri. All rights reserved.</p>
+            <p>&copy; 2024 Digital Mistri. All rights reserved.<br />
+            <span>Legal Name: <b>ANUBHAV GUPTA</b></span></p>
           </div>
           
           <div className="flex flex-wrap gap-6 text-sm">
             <a href="/privacy-policy.html" className="text-gray-300 hover:text-white transition-colors">
               Privacy Policy
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors">
-              Terms of Service
+            <a href="/terms-and-conditions.html" className="text-gray-300 hover:text-white transition-colors">
+              Terms & Conditions
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors">
-              Cookie Policy
+            <a href="/refund-cancellation-policy.html" className="text-gray-300 hover:text-white transition-colors">
+              Refund & Cancellation Policy
             </a>
           </div>
         </div>
