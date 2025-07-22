@@ -140,7 +140,7 @@ const Footer: React.FC = () => {
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div className="text-gray-300 text-sm">
             <p>&copy; 2024 Digital Mistri. All rights reserved.<br />
-            <span>Legal Name: <b>ANUBHAV GUPTA</b></span></p>
+            <span>Legal Name: <b>Digital Mistri</b></span></p>
           </div>
           
           <div className="flex flex-wrap gap-6 text-sm">
