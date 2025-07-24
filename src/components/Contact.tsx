@@ -73,7 +73,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
+                  <p className="text-gray-600">9554585320</p>
                 </div>
               </div>
 
@@ -83,7 +83,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>
-                  <p className="text-gray-600">support@digitalmistri.com</p>
+                  <p className="text-gray-600">digitalmistri33@gmail.com</p>
                 </div>
               </div>
 
@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">WhatsApp</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
+                  <p className="text-gray-600">+91 9554585320</p>
                 </div>
               </div>
 
@@ -104,8 +104,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600">
-                    123 Tech Street, Innovation Hub<br />
-                    Mumbai, Maharashtra 400001
+                    Janghai Market, Prayagraj
                   </p>
                 </div>
               </div>

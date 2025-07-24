@@ -144,6 +144,9 @@ const Footer: React.FC = () => {
           </div>
           
           <div className="flex flex-wrap gap-6 text-sm">
+            <a href="/contact-us.html" className="text-gray-300 hover:text-white transition-colors">
+              Contact Us
+            </a>
             <a href="/privacy-policy.html" className="text-gray-300 hover:text-white transition-colors">
               Privacy Policy
             </a>
@@ -151,7 +154,7 @@ const Footer: React.FC = () => {
               Terms & Conditions
             </a>
             <a href="/refund-cancellation-policy.html" className="text-gray-300 hover:text-white transition-colors">
-              Refund & Cancellation Policy
+              Refunds & Cancellation
             </a>
           </div>
         </div>
